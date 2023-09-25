@@ -9,7 +9,7 @@ Software engineer focused on improving user experiences through robust front- an
 *   🌍  I'm based in New York
 *   🖥️  See my portfolio at [Portfolio](http://crzambito.com)
 *   ✉️  You can contact me at [c.r.zambito@gmail.com](mailto:c.r.zambito@gmail.com)
-*   🧠  I'm currently learning Java & C#
+*   🧠  I'm learning Java & C#
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  Never too late to follow your dreams### Skills 
 <p align="left">
