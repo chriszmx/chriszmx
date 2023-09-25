@@ -52,7 +52,6 @@ Sure, I'd be happy to help. Here's a revised version of your testimonials sectio
 
 > "_Chris's genuine curiosity for the tech world is inspiring. His eagerness to explore new technologies, his determination to find creative solutions, and his exceptional team player qualities make him stand out. His technical prowess and strong interpersonal skills make him a joy to work with._" - **Stesha Carle**, Software Engineer
 
-Absolutely, I can help with that. Here are the condensed versions of these testimonials:
 
 > "_Chris's passion, dedication, and exceptional work ethic set him apart. His technical skills are commendable, and his eagerness to share knowledge is inspiring. He's a valuable asset to any team._" - **Wilkin Ruiz**, Software Engineer
 
