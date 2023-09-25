@@ -46,19 +46,10 @@ Dedicated software engineer with a passion for creating intuitive user experienc
 
 ---
 
-📄 **Latest Blog Posts**
-
-<!-- If you write blog posts, linking some of your latest or best here could be a nice touch. Tools like githuBlogs can help automate this: https://github.com/gautamkrishnar/blog-post-workflow -->
-
-- [My Journey from Business to Code](http://crzambito.com/blog/journey-to-code)
-- [Demystifying Java for Newbies](http://crzambito.com/blog/java-for-newbies)
-- [Why Collaborative Coding is the Future](http://crzambito.com/blog/collab-coding)
-
----
 
 🔗 **Quick Links**
 
-- [📖 My Resume](http://crzambito.com/resume.pdf)
+- [📖 My Resume](http://crzambito.com/czresume.pdf)
 - [💼 LinkedIn Recommendations](https://www.linkedin.com/in/chris-zambito#recommendations)
 
 ---
