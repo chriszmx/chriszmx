@@ -40,10 +40,6 @@ Dedicated software engineer with a passion for creating intuitive user experienc
 
 ---
 
-Sure, I'd be happy to help. Here's a revised version of your testimonials section. I've shortened the testimonials while maintaining their essence and added some markdown for better readability:
-
----
-
 📣 **Testimonials**
 
 > "_Chris is a remarkable individual with a passion for coding that is truly inspiring. His dedication, work ethic, and love for building new things make him an invaluable asset. I wholeheartedly recommend Chris for any coding or technology-related role._" - **Steve Song**, Software Engineer
