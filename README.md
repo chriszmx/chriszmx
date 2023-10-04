@@ -12,7 +12,7 @@ Dedicated software engineer with a passion for creating intuitive user experienc
 
 - 🌟 **Portfolio**: [crzambito.com](http://crzambito.com)
 - 📩 **Contact**: [c.r.zambito@gmail.com](mailto:c.r.zambito@gmail.com)
-- 📚 **Learning**: Java | C#
+- 📚 **Learning**: C# | Svelte... bit of everything 😅
 - 🤲 **Collaborations**: Always open to unique and challenging projects
 - ⚡ **Life Moto**: Your dreams don't have an expiration date.
 
