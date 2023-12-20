@@ -74,7 +74,7 @@ Dedicated software engineer with a passion for creating intuitive user experienc
 
 ---  
 
-
+   
 ### Badges   
 
 <b>My GitHub Stats</b> 
