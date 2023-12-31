@@ -15,7 +15,7 @@ Dedicated software engineer with a passion for creating intuitive user experienc
 - 📚 **Learning**: C# | Svelte... bit of everything 😅
 - 🤲 **Collaborations**: Always open to unique and challenging projects
 - ⚡ **Life Moto**: Your dreams don't have an expiration date.
-
+ 
 ---
    
 🔧 **Skills Showcase**
