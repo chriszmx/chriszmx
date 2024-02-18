@@ -17,7 +17,7 @@ Dedicated software engineer with a passion for creating intuitive user experienc
 - ⚡ **Life Moto**: Your dreams don't have an expiration date.
  
 ---
-   
+  
 🔧 **Skills Showcase**
 
 <p align="left">
