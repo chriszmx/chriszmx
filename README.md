@@ -4,7 +4,7 @@
 ![Wave Animation](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 🔍 **Software Engineer** | 🌆 **New York** | 💡 **15+ Years in Business Operations**
-
+ 
 --- 
 
 📌 **About Me:**
@@ -12,7 +12,7 @@ Dedicated software engineer with a passion for creating intuitive user experienc
 
 - 🌟 **Portfolio**: [crzambito.com](http://crzambito.com)
 - 📩 **Contact**: [c.r.zambito@gmail.com](mailto:c.r.zambito@gmail.com)
-- 📚 **Learning**: C# | Svelte... bit of everything 😅
+- 📚 **Learning**: Web3
 - 🤲 **Collaborations**: Always open to unique and challenging projects
 - ⚡ **Life Moto**: Your dreams don't have an expiration date.
  
