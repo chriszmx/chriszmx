@@ -10,7 +10,7 @@
 📌 **About Me:**
 Dedicated software engineer with a passion for creating intuitive user experiences. My journey spans from running a family-owned business for 15 years to diving deep into the world of programming and teaching myself 12+ frameworks in 6 months. I thrive in high-stress environments, harnessing my experience to innovate, collaborate, and deliver. Dream big, code bigger!
 
-- 🌟 **Portfolio**: [crzambito.com](http://crzambito.com)
+- 🌟 **Portfolio**: [Nine Lives Degen](http://ninelivesdegen.com)
 - 📩 **Contact**: [c.r.zambito@gmail.com](mailto:c.r.zambito@gmail.com)
 - 📚 **Learning**: Web3
 - 🤲 **Collaborations**: Always open to unique and challenging projects
