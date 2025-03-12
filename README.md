@@ -1,4 +1,4 @@
-# Chris Zambito 🚀
+# Chris 🚀
 > Elevating Code, One Line at a Time
 
 ![Wave Animation](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
@@ -8,11 +8,11 @@
 --- 
 
 📌 **About Me:**
-Dedicated software engineer with a passion for creating intuitive user experiences. My journey spans from running a family-owned business for 15 years to diving deep into the world of programming and teaching myself 12+ frameworks in 6 months. I thrive in high-stress environments, harnessing my experience to innovate, collaborate, and deliver. Dream big, code bigger!
+CEO of Nine Lives Development 
+Possibly a web3 degen
 
 - 🌟 **Portfolio**: [Nine Lives Degen](http://ninelivesdegen.com)
 - 📩 **Contact**: [c.r.zambito@gmail.com](mailto:c.r.zambito@gmail.com)
-- 📚 **Learning**: Web3
 - 🤲 **Collaborations**: Always open to unique and challenging projects
 - ⚡ **Life Moto**: Your dreams don't have an expiration date.
  
@@ -29,14 +29,6 @@ Dedicated software engineer with a passion for creating intuitive user experienc
 💬 **Connect with Me**
 
 <p align="left"> <a href="https://www.github.com/chriszmx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/chris-zambito" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
----
-
-🌠 **Achievements & Stats**
-
-<p align="center">
-  <!-- Your GitHub streak stats image here. You could also consider using something like GitHub metrics (https://github.com/lowlighter/metrics) to showcase a more diverse set of GitHub stats -->
-</p>
 
 ---
 
@@ -63,14 +55,6 @@ Dedicated software engineer with a passion for creating intuitive user experienc
 
 > "_Chris's exceptional skills, extensive knowledge, and strong leadership abilities make him an outstanding software engineer. His determination, resilience, and commitment to delivering high-quality work make him a valuable asset._" - **Liland Pham**, Software Engineer
 
-
----
-
-
-🔗 **Quick Links**
-
-- [📖 My Resume](http://crzambito.com/czresume.pdf)
-- [💼 LinkedIn Recommendations](https://www.linkedin.com/in/chris-zambito#recommendations)
 
 ---  
 
