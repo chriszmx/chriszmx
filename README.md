@@ -1,6 +1,6 @@
 # Nine Lives 🚀
 
->>> "In the depths of the digital realm, where code meets mysticism, something extraordinary is taking shape. Nine lives, nine iterations, infinite possibilities.... The ancient wisdom of the diaital feline awakens.
+"In the depths of the digital realm, where code meets mysticism, something extraordinary is taking shape. Nine lives, nine iterations, infinite possibilities.... The ancient wisdom of the diaital feline awakens.
 
 
 
