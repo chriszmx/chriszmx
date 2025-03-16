@@ -16,6 +16,7 @@
 CEO of Nine Lives Development 
 Possibly a web3 degen
 
+- 🌟 **Dev**: [Nine Lives Dev](https://www.ninelives.dev/)
 - 🌟 **Portfolio**: [Nine Lives Degen](http://ninelivesdegen.com)
 - 📩 **Contact**: [c.r.zambito@gmail.com](mailto:c.r.zambito@gmail.com)
 - 🤲 **Collaborations**: Always open to unique and challenging projects
