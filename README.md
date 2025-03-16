@@ -1,4 +1,9 @@
-# Chris 🚀
+# Nine Lives 🚀
+
+>>> "In the depths of the digital realm, where code meets mysticism, something extraordinary is taking shape. Nine lives, nine iterations, infinite possibilities.... The ancient wisdom of the diaital feline awakens.
+
+
+
 > Elevating Code, One Line at a Time
 
 ![Wave Animation](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
