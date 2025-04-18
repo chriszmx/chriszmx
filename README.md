@@ -13,7 +13,7 @@
 --- 
 
 📌 **About Me:**
-CEO of Nine Lives Development 
+CEO of Nine Lives Development &&
 Possibly a web3 degen
 
 - 🌟 **Dev**: [Nine Lives Dev](https://www.ninelives.dev/)
