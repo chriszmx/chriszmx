@@ -18,7 +18,7 @@ Possibly a web3 degen
 
 - 🌟 **Dev**: [Nine Lives Dev](https://www.ninelives.dev/)
 - 🌟 **Portfolio**: [Nine Lives Degen](http://ninelivesdegen.com)
-- 📩 **Contact**: [c.r.zambito@gmail.com](mailto:c.r.zambito@gmail.com)
+- 📩 **Contact**: [chris@ninelives.dev](mailto:chris@ninelives.dev)
 - 🤲 **Collaborations**: Always open to unique and challenging projects
 - ⚡ **Life Moto**: Your dreams don't have an expiration date.
  
