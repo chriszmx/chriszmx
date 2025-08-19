@@ -34,7 +34,7 @@ $ whoami
 full-stack dev / chaos engineer
 
 $ focus
-bots | dashboards | meme coin sites | automations
+bots | dashboards | tradfi | defi | automations
 
 $ motto
 break it → fix it → ship it → repeat
