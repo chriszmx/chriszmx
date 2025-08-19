@@ -50,6 +50,9 @@ break it → fix it → ship it → repeat
 <a href="http://www.github.com/chriszmx">
   <img src="https://github-readme-stats.vercel.app/api?username=chriszmx&show_icons=true&hide_border=true&theme=radical&count_private=true" />
 </a>  
+<figure><embed src="https://wakatime.com/share/@bc20ef46-5626-4d0c-aaed-b47298d62497/72917862-6b75-4353-85c3-01afafca7506.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@bc20ef46-5626-4d0c-aaed-b47298d62497/8eba08ce-09cb-4e00-b5e4-4a82d07eded0.svg"></embed></figure>
+
 
 ---
 
