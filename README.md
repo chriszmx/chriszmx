@@ -16,7 +16,6 @@ status: always shipping
 <a href="https://kit.svelte.dev/" target="_blank"><img src="https://img.shields.io/badge/SvelteKit-ff3e00?style=for-the-badge&logo=svelte&logoColor=white" /></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
 <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a>
 <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
@@ -43,13 +42,14 @@ break it → fix it → ship it → repeat
 
 ---
 
-## [~] Stats (accurate + private-safe)
-<!-- Using include_all_commits + count_private, dropping the misleading language card -->
-<a href="https://github.com/chriszmx">
-  <img src="https://github-readme-stats.vercel.app/api?username=chriszmx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&v=1" />
-</a>
+## [~] Stats
+<a href="http://www.github.com/chriszmx">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriszmx&layout=compact&theme=radical&hide_border=true" />
+</a>  
 
-> If this card errors: it’s usually API rate limit. Refresh later or self-host the endpoint.
+<a href="http://www.github.com/chriszmx">
+  <img src="https://github-readme-stats.vercel.app/api?username=chriszmx&show_icons=true&hide_border=true&theme=radical&count_private=true" />
+</a>  
 
 ---
 
