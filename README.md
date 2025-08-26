@@ -43,15 +43,6 @@ break it → fix it → ship it → repeat
 ---
 
 ## [~] Stats
-<a href="http://www.github.com/chriszmx">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chriszmx&layout=compact&theme=radical&hide_border=true" />
-</a>  
-
-<a href="http://www.github.com/chriszmx">
-  <img src="https://github-readme-stats.vercel.app/api?username=chriszmx&show_icons=true&hide_border=true&theme=radical&count_private=true" />
-</a>  
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@bc20ef46-5626-4d0c-aaed-b47298d62497/485e07dd-8f51-41d3-8140-25a47b3cf818.png" /></a>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@bc20ef46-5626-4d0c-aaed-b47298d62497/71d4cf32-debd-48e5-b769-fe68c7a5c419.png" /></a>
 
