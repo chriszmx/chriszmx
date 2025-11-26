@@ -7,6 +7,8 @@ systems: web3 | ai | automation | memes
 status: always shipping
 ```
 
+<a href="https://github.com/Nine-Lives-Dev">Nine Lives Development LLC GitHub</a>
+
 ![Wave Animation](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ---
