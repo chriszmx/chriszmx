@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chriszmx)](https://github.com/chriszmx/github-readme-stats)
+
 # Chris — Founder & Engineer @ Nine Lives
 
 ```bash
