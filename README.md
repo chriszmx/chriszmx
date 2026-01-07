@@ -1,5 +1,6 @@
 # Chris — Founder & Engineer @ Nine Lives
 
+
 ```bash
 # boot sequence
 role: full-stack engineer / chaos operator
